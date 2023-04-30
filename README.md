@@ -6,7 +6,7 @@ Fantasy Premier League analysis tool
 ## ToDo
 - [x] Create Repo
 - [x] Find most selected players by top 15 FPL Managers
-- [ ] Create 1 team from top 15 FPL Managers
+- [x] Create 1 team from top 15 FPL Managers
 - [ ] Create team using players projected to return the highest points (ML + data)
 - [ ] Create differential team (Squad built built using players under 20% ownership projected to return highest points) (ML + data)
 - [ ] Projected points for current team (ML)
